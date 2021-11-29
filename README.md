@@ -15,7 +15,7 @@
 
 <br>
 
-<h1>🔧 Dependencias</h1>
+<h1>🔧 Dependencias </h1>
 
 <ul>
   <li>ReactJS</li>
